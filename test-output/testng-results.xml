@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-31T11:45:58 PDT" name="Default suite" finished-at="2024-08-31T11:46:39 PDT" duration-ms="41282">
+    <groups>
+    </groups>
+    <test started-at="2024-08-31T11:45:58 PDT" name="Default test" finished-at="2024-08-31T11:46:39 PDT" duration-ms="41282">
+      <class name="com.neotech.lesson01.TitleAndLogoValidation">
+        <test-method is-config="true" signature="openAndNavigate()[pri:0, instance:com.neotech.lesson01.TitleAndLogoValidation@1623b78d]" started-at="2024-08-31T11:45:58 PDT" name="openAndNavigate" finished-at="2024-08-31T11:46:10 PDT" duration-ms="12329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAndNavigate -->
+        <test-method signature="loginValidation()[pri:0, instance:com.neotech.lesson01.TitleAndLogoValidation@1623b78d]" started-at="2024-08-31T11:46:10 PDT" name="loginValidation" finished-at="2024-08-31T11:46:19 PDT" duration-ms="9175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidation -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.neotech.lesson01.TitleAndLogoValidation@1623b78d]" started-at="2024-08-31T11:46:20 PDT" name="quitBrowser" finished-at="2024-08-31T11:46:21 PDT" duration-ms="1040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="openAndNavigate()[pri:0, instance:com.neotech.lesson01.TitleAndLogoValidation@1623b78d]" started-at="2024-08-31T11:46:21 PDT" name="openAndNavigate" finished-at="2024-08-31T11:46:27 PDT" duration-ms="6550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAndNavigate -->
+        <test-method signature="logoValidation()[pri:0, instance:com.neotech.lesson01.TitleAndLogoValidation@1623b78d]" started-at="2024-08-31T11:46:27 PDT" name="logoValidation" finished-at="2024-08-31T11:46:29 PDT" duration-ms="1578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoValidation -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.neotech.lesson01.TitleAndLogoValidation@1623b78d]" started-at="2024-08-31T11:46:29 PDT" name="quitBrowser" finished-at="2024-08-31T11:46:30 PDT" duration-ms="1390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="openAndNavigate()[pri:0, instance:com.neotech.lesson01.TitleAndLogoValidation@1623b78d]" started-at="2024-08-31T11:46:30 PDT" name="openAndNavigate" finished-at="2024-08-31T11:46:38 PDT" duration-ms="7887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAndNavigate -->
+        <test-method signature="titleValidation()[pri:0, instance:com.neotech.lesson01.TitleAndLogoValidation@1623b78d]" started-at="2024-08-31T11:46:38 PDT" name="titleValidation" finished-at="2024-08-31T11:46:38 PDT" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleValidation -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.neotech.lesson01.TitleAndLogoValidation@1623b78d]" started-at="2024-08-31T11:46:38 PDT" name="quitBrowser" finished-at="2024-08-31T11:46:39 PDT" duration-ms="994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.neotech.lesson01.TitleAndLogoValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
